@@ -1,0 +1,2684 @@
+﻿  Block.cpp
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(27,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(27,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(27,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(27,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(28,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(28,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(28,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(30,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(30,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(31,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(31,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(32,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(32,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(33,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(33,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(34,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(34,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(35,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(35,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(36,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(36,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(37,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(37,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(38,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(38,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(51,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(51,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(51,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(51,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(55,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(55,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(59,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(59,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(59,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(59,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(63,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(63,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(63,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(66,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(66,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(67,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(67,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(68,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(68,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(69,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(69,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(70,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(70,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(71,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(71,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(72,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(72,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(73,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(73,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(74,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(74,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(80,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(80,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(80,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(80,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(84,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(84,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(84,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(88,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(88,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(88,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(88,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(93,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(93,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(93,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(96,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(96,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(97,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(97,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(98,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(98,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(99,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(99,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(100,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(100,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(101,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(101,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(102,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(102,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(103,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(103,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(104,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(104,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(176,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(176,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(176,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(176,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(186,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(186,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(186,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(186,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(190,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(190,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(191,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(191,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(192,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(192,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(193,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(193,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(194,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(194,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(195,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(195,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(196,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(196,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(197,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(197,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(198,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(198,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(208,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(208,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(209,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(209,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(211,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(211,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(212,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(212,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(213,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(213,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(214,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(214,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(215,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(215,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(221,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(221,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(221,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(225,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(225,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(225,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(229,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(229,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(229,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(233,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(233,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(233,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(236,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(236,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(237,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(237,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(238,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(238,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(239,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(239,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(240,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(240,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(246,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(246,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(246,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(250,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(250,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(250,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(254,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(254,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(254,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(258,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(258,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(258,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(261,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(261,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(262,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(262,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(263,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(263,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(264,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(264,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(265,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(265,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(325,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(325,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(325,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(329,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(329,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(329,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(332,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(332,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(332,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(338,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(338,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(338,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(338,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(344,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(344,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(344,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(347,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(347,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(347,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(353,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(353,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(353,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(353,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(357,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(357,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(358,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(358,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(359,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(359,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(360,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(360,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(361,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(361,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(371,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(371,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(371,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(372,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(372,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(372,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(374,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(374,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(375,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(375,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(376,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(376,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(377,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(377,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(378,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(378,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(379,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(379,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(380,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(380,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(390,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(390,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(390,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(390,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(391,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(391,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(391,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(393,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(393,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(394,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(394,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(395,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(395,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(396,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(396,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(397,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(397,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(398,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(398,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(399,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(399,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(400,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(400,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(401,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(401,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(407,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(407,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(407,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(407,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(411,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(411,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(415,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(415,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(415,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(415,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(419,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(419,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(419,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(422,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(422,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(423,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(423,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(424,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(424,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(425,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(425,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(426,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(426,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(427,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(427,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(428,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(428,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(429,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(429,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(430,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(430,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(436,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(436,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(436,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(436,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(440,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(440,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(440,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(444,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(444,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(444,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(444,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(449,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(449,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(449,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(452,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(452,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(453,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(453,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(454,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(454,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(455,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(455,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(456,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(456,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(457,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(457,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(458,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(458,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(459,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(459,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(460,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(460,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(531,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(531,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(531,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(531,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(541,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(541,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(541,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(541,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(545,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(545,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(546,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(546,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(547,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(547,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(548,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(548,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(549,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(549,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(550,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(550,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(551,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(551,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(552,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(552,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(553,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(553,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(563,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(563,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(563,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(563,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(564,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(564,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(564,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(566,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(566,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(567,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(567,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(568,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(568,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(569,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(569,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(570,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(570,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(571,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(571,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(572,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(572,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(573,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(573,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(574,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(574,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(580,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(580,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(580,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(580,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(584,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(584,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(588,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(588,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(588,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(588,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(592,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(592,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(592,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(595,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(595,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(596,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(596,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(597,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(597,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(598,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(598,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(599,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(599,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(600,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(600,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(601,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(601,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(602,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(602,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(603,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(603,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(609,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(609,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(609,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(609,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(613,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(613,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(613,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(617,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(617,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(617,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(617,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(622,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(622,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(622,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(625,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(625,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(626,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(626,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(627,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(627,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(628,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(628,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(629,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(629,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(630,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(630,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(631,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(631,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(632,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(632,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(633,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(633,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(703,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(703,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(703,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(703,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(713,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(713,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(713,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(713,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(717,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(717,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(718,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(718,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(719,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(719,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(720,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(720,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(721,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(721,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(722,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(722,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(723,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(723,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(724,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(724,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(725,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(725,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(795,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(795,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(795,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(803,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(803,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(803,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(813,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(813,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(813,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(824,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(824,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(824,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(831,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(831,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(832,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(832,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(833,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(833,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(834,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(834,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(835,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(835,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(836,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(836,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(837,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(837,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(847,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(847,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(847,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(848,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(848,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(850,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(850,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(851,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(851,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(852,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(852,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(853,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(853,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(854,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(854,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(855,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(855,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(856,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(856,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(864,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(864,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(864,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(868,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(868,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(872,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(872,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(872,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(876,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(876,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(876,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(879,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(879,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(880,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(880,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(881,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(881,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(882,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(882,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(883,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(883,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(884,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(884,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(885,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(885,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(891,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(891,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(891,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(895,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(895,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(895,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(899,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(899,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(899,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(904,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(904,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(904,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(907,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(907,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(908,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(908,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(909,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(909,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(910,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(910,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(911,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(911,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(912,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(912,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(913,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(913,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(983,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(983,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(983,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(990,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(990,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(990,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(996,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(996,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(996,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1003,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1003,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1003,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1010,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1010,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1011,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1011,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1012,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1012,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1013,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1013,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1014,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1014,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1015,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1015,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1016,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1016,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1026,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1026,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1027,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1027,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1029,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1029,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1030,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1030,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1031,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1031,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1032,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1032,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1033,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1033,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1040,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1040,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1042,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1042,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1043,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1043,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1044,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1044,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1045,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1045,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1046,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1046,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1051,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1051,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1053,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1053,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1054,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1054,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1055,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1055,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1056,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1056,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1057,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1057,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1084,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1084,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1101,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1101,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1104,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1104,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1104,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1107,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1107,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1110,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1110,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1110,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1114,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1114,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1115,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1115,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1116,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1116,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1117,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1117,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1118,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1118,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1119,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1119,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1120,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1120,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1126,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1126,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1129,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1129,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1129,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1129,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1132,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1132,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1135,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1135,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1135,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1135,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1139,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1139,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1140,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1140,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1141,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1141,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1142,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1142,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1143,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1143,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1144,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1144,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1145,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1145,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1146,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1146,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1147,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1147,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1153,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1153,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1156,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1156,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1156,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1156,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1159,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1159,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1162,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1162,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1162,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1162,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1166,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1166,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1167,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1167,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1168,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1168,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1169,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1169,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1170,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1170,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1171,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1171,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1172,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1172,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1173,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1173,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1174,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1174,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1180,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1180,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1183,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1183,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1183,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1183,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1186,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1186,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1189,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1189,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1189,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1189,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1194,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1194,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1195,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1195,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1196,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1196,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1197,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1197,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1198,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1198,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1199,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1199,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1200,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1200,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1201,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1201,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1202,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1202,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1208,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1208,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1211,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1211,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1211,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1214,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1214,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1217,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1217,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1217,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1222,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1222,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1223,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1223,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1224,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1224,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1225,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1225,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1226,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1226,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1231,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1231,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1235,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1235,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1236,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1236,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1237,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1237,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1238,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1238,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1239,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1239,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  funkcijos.h
+  Grid.cpp
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(267,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(267,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(268,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(268,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(269,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(269,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(270,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(270,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Source.cpp
+  Generating Code...
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(102): warning C4715: 'Grid::fallen_S': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(66): warning C4715: 'Grid::fallen_T': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(136): warning C4715: 'Grid::fallen_Z': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(170): warning C4715: 'Grid::fallen_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(205): warning C4715: 'Grid::fallen_J': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(238): warning C4715: 'Grid::fallen_I': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Grid.cpp(255): warning C4715: 'Grid::fallen_square': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(228): warning C4715: 'IsLineFull': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(272): warning C4715: 'IsBlockOnLeft_T': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(307): warning C4715: 'IsBlockOnRight_T': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(364): warning C4715: 'IsBlockOnLeft_S': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(387): warning C4715: 'IsBlockOnRight_Z': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(410): warning C4715: 'IsBlockOnLeft_Z': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(433): warning C4715: 'IsBlockOnLeft_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(329): warning C4715: 'IsBlockOnRight_S': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(497): warning C4715: 'IsBlockOnRight_J': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(475): warning C4715: 'IsBlockOnLeft_J': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(549): warning C4715: 'IsBlockOnLeft_square': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(543): warning C4715: 'IsBlockOnRight_I': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(455): warning C4715: 'IsBlockOnRight_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(519): warning C4715: 'IsBlockOnLeft_I': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(555): warning C4715: 'IsBlockOnRight_square': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\funkcijos.h(566): warning C4715: 'GameOver': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(135): warning C4715: 'Block::T_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(166): warning C4715: 'Block::T_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(294): warning C4715: 'Block::I_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(321): warning C4715: 'Block::I_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(490): warning C4715: 'Block::S_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(521): warning C4715: 'Block::S_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(662): warning C4715: 'Block::Z_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(693): warning C4715: 'Block::Z_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(758): warning C4715: 'Block::J_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(789): warning C4715: 'Block::J_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(946): warning C4715: 'Block::L_collision_R': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(976): warning C4715: 'Block::L_collision_L': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1066): warning C4715: 'Block::square_collision_right': not all control paths return a value
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Block.cpp(1074): warning C4715: 'Block::square_collision_left': not all control paths return a value
+  Tetris .vcxproj -> C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Debug\Tetris .exe

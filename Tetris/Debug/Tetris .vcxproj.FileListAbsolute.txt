@@ -1,0 +1,2 @@
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Debug\Tetris .exe
+C:\Users\FoxSoda\Desktop\Tetris - Copy\Tetris\Debug\Tetris .pdb
