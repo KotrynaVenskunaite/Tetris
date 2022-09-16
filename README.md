@@ -10,5 +10,5 @@ After downloading the program you can:
 2. Put the "SFML-2.5.1" file in your (C:) drive
 
 # Easy future use (if ALTERNATIVE was chosen)
-After running the program once a debug folder will be created. Copy and paste all "sfml-xyz.dll" and "openal32.dll" files into it, then do the same for
+After running the program once, a debug folder will be created. Copy and paste all "sfml-xyz.dll" and "openal32.dll" files into it, then do the same for
 "Fonts" folder (not the contents in them, just the folders). you can now run the exe file or a shortcut any time.
